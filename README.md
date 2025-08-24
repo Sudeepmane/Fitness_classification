@@ -66,10 +66,10 @@ We applied preprocessing, train-test splitting, and evaluated the following mode
 ---
 
 ## 🏆 Inference
-- **Logistic Regression** performed best overall with **highest ROC-AUC (0.84)** and balanced accuracy.  
-- **Gradient Boosting** is a close competitor with slightly lower accuracy but high ROC-AUC.  
-- **SVM** underperformed, indicating it may not be suitable for this dataset.  
-- Ensemble models (Random Forest, XGBoost, Gradient Boosting) are competitive but didn’t surpass Logistic Regression.  
+- **Logistic Regression** performed best overall with **highest ROC-AUC (0.84)** and balanced accuracy 
+- **Gradient Boosting** is a close competitor with slightly lower accuracy but high ROC-AUC 
+- **SVM** underperformed, indicating it may not be suitable for this dataset  
+- Ensemble models (Random Forest, XGBoost, Gradient Boosting) are competitive but didn’t surpass Logistic Regression  
 
 ---
 
